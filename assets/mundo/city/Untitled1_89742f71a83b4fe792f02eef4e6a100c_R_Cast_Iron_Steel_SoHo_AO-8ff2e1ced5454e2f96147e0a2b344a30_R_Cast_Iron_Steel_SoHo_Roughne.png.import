@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cqx4pji2t8crq"
+path.s3tc="res://.godot/imported/Untitled1_89742f71a83b4fe792f02eef4e6a100c_R_Cast_Iron_Steel_SoHo_AO-8ff2e1ced5454e2f96147e0a2b344a30_R_Cast_Iron_Steel_SoHo_Roughne.png-c55fc919ebd1403e927350921619aad8.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "31f93da32de143c045eeed3118eb11a1"
+}
+
+[deps]
+
+source_file="res://assets/mundo/city/Untitled1_89742f71a83b4fe792f02eef4e6a100c_R_Cast_Iron_Steel_SoHo_AO-8ff2e1ced5454e2f96147e0a2b344a30_R_Cast_Iron_Steel_SoHo_Roughne.png"
+dest_files=["res://.godot/imported/Untitled1_89742f71a83b4fe792f02eef4e6a100c_R_Cast_Iron_Steel_SoHo_AO-8ff2e1ced5454e2f96147e0a2b344a30_R_Cast_Iron_Steel_SoHo_Roughne.png-c55fc919ebd1403e927350921619aad8.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

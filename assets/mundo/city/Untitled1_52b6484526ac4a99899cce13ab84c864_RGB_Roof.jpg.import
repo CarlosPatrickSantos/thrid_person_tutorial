@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://brlvxv2mxirf"
+path.s3tc="res://.godot/imported/Untitled1_52b6484526ac4a99899cce13ab84c864_RGB_Roof.jpg-ab66496ffb5663712026903902a1a5d2.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "131a8ef261be8d63279ace4ea3fc27fe"
+}
+
+[deps]
+
+source_file="res://assets/mundo/city/Untitled1_52b6484526ac4a99899cce13ab84c864_RGB_Roof.jpg"
+dest_files=["res://.godot/imported/Untitled1_52b6484526ac4a99899cce13ab84c864_RGB_Roof.jpg-ab66496ffb5663712026903902a1a5d2.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

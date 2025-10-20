@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://d3y281hu0xhhn"
+path.s3tc="res://.godot/imported/Untitled1_a3bf82817afc4c218aa0c6831a353a73_RGB_Red_Building.jpg-04b665fa39f6ab83c8ba3beb05debeb3.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "d636911f76535e9b1843a4fb1aeb8481"
+}
+
+[deps]
+
+source_file="res://assets/mundo/city/Untitled1_a3bf82817afc4c218aa0c6831a353a73_RGB_Red_Building.jpg"
+dest_files=["res://.godot/imported/Untitled1_a3bf82817afc4c218aa0c6831a353a73_RGB_Red_Building.jpg-04b665fa39f6ab83c8ba3beb05debeb3.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://birjesmbib5x"]
+
+[ext_resource type="PackedScene" uid="uid://bqf30pfvjqb1i" path="res://assets/mundo/rock/lion_rock_piha.glb" id="1_q5emh"]
+
+[sub_resource type="SeparationRayShape3D" id="SeparationRayShape3D_q5emh"]
+
+[node name="Sketchfab_Scene" instance=ExtResource("1_q5emh")]
+
+[node name="StaticBody3D" type="StaticBody3D" parent="." index="1"]
+transform = Transform3D(23.0622, 19.1868, 0, -19.1868, 23.0622, 0, 0, 0, 30, 0.0938201, 0.00197136, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D" index="0"]
+shape = SubResource("SeparationRayShape3D_q5emh")

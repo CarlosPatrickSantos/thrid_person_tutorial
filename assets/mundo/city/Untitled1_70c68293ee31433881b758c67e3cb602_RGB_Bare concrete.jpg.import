@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cxgf8gpderxno"
+path.s3tc="res://.godot/imported/Untitled1_70c68293ee31433881b758c67e3cb602_RGB_Bare concrete.jpg-6d2c544852d6cd20da8dc2275ddcf045.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "34b50766482bef773fd51b6ec44ff73b"
+}
+
+[deps]
+
+source_file="res://assets/mundo/city/Untitled1_70c68293ee31433881b758c67e3cb602_RGB_Bare concrete.jpg"
+dest_files=["res://.godot/imported/Untitled1_70c68293ee31433881b758c67e3cb602_RGB_Bare concrete.jpg-6d2c544852d6cd20da8dc2275ddcf045.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

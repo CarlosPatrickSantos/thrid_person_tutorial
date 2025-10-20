@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dssfsq6dx8y56"
+path.s3tc="res://.godot/imported/Untitled_6df0c4701fe44c36bf8ea5b6a3de178c_R_solar_spec.jpg-8af50e8104f447519f0ef573fdf5bd5e.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "60163d404d8bdd14b94406fc15e5ad0b"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_6df0c4701fe44c36bf8ea5b6a3de178c_R_solar_spec.jpg"
+dest_files=["res://.godot/imported/Untitled_6df0c4701fe44c36bf8ea5b6a3de178c_R_solar_spec.jpg-8af50e8104f447519f0ef573fdf5bd5e.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

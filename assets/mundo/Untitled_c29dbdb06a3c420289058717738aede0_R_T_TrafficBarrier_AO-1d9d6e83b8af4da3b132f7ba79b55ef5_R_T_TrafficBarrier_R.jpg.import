@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c6mdhwxk8yea"
+path.s3tc="res://.godot/imported/Untitled_c29dbdb06a3c420289058717738aede0_R_T_TrafficBarrier_AO-1d9d6e83b8af4da3b132f7ba79b55ef5_R_T_TrafficBarrier_R.jpg-9d4480866e0a286dc06a153979ef3092.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "10bdf324abe8ed3345fa0a6fec2924b4"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_c29dbdb06a3c420289058717738aede0_R_T_TrafficBarrier_AO-1d9d6e83b8af4da3b132f7ba79b55ef5_R_T_TrafficBarrier_R.jpg"
+dest_files=["res://.godot/imported/Untitled_c29dbdb06a3c420289058717738aede0_R_T_TrafficBarrier_AO-1d9d6e83b8af4da3b132f7ba79b55ef5_R_T_TrafficBarrier_R.jpg-9d4480866e0a286dc06a153979ef3092.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=8
+roughness/src_normal="res://assets/mundo/Untitled_81c2461a53064a2a96352c8960661260_N_T_TrafficBarrier_N.jpg"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

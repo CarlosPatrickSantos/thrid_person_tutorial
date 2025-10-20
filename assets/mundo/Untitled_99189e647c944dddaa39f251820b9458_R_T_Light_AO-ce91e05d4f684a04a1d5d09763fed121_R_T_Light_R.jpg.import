@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dnnrle3bweg6x"
+path.s3tc="res://.godot/imported/Untitled_99189e647c944dddaa39f251820b9458_R_T_Light_AO-ce91e05d4f684a04a1d5d09763fed121_R_T_Light_R.jpg-66ed85ad97eb943251169db4c3cb59c2.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "a4f36935bdc8f1e4e3f9c21675cc2f65"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_99189e647c944dddaa39f251820b9458_R_T_Light_AO-ce91e05d4f684a04a1d5d09763fed121_R_T_Light_R.jpg"
+dest_files=["res://.godot/imported/Untitled_99189e647c944dddaa39f251820b9458_R_T_Light_AO-ce91e05d4f684a04a1d5d09763fed121_R_T_Light_R.jpg-66ed85ad97eb943251169db4c3cb59c2.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=8
+roughness/src_normal="res://assets/mundo/Untitled_601b212d675c4e3789195cd356176082_N_T_Light_N.jpg"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bye6rdnii4b15"
+path.s3tc="res://.godot/imported/Untitled_c5b305160b2a431f8e4baf207c4943f7_RGB_floor_tiles_02_diff_1k.jpg-7b13d99bdd9233b3652baea1eb3df323.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "1578d946efc601fa03190264f0c369c1"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_c5b305160b2a431f8e4baf207c4943f7_RGB_floor_tiles_02_diff_1k.jpg"
+dest_files=["res://.godot/imported/Untitled_c5b305160b2a431f8e4baf207c4943f7_RGB_floor_tiles_02_diff_1k.jpg-7b13d99bdd9233b3652baea1eb3df323.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

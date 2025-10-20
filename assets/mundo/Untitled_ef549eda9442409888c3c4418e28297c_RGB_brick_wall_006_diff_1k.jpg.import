@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dui5ni8sa6gjp"
+path.s3tc="res://.godot/imported/Untitled_ef549eda9442409888c3c4418e28297c_RGB_brick_wall_006_diff_1k.jpg-e809e4be16618950c692e685715ef95c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "5c1b57ac50da6ba38867ec34a0d43c9c"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_ef549eda9442409888c3c4418e28297c_RGB_brick_wall_006_diff_1k.jpg"
+dest_files=["res://.godot/imported/Untitled_ef549eda9442409888c3c4418e28297c_RGB_brick_wall_006_diff_1k.jpg-e809e4be16618950c692e685715ef95c.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

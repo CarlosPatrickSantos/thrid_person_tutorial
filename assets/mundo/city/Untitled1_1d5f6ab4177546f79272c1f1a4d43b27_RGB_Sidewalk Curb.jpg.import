@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://kusvoqhaovl5"
+path.s3tc="res://.godot/imported/Untitled1_1d5f6ab4177546f79272c1f1a4d43b27_RGB_Sidewalk Curb.jpg-5b8f7a08fcefce761f523da8f35691d8.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "4c21575579b6cbc059b6d8b24462ea29"
+}
+
+[deps]
+
+source_file="res://assets/mundo/city/Untitled1_1d5f6ab4177546f79272c1f1a4d43b27_RGB_Sidewalk Curb.jpg"
+dest_files=["res://.godot/imported/Untitled1_1d5f6ab4177546f79272c1f1a4d43b27_RGB_Sidewalk Curb.jpg-5b8f7a08fcefce761f523da8f35691d8.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

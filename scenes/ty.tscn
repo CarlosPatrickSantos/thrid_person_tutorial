@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://cetrwgh5fdpdg"]
+
+[ext_resource type="Script" uid="uid://q82e444qopjf" path="res://scripts/ty.gd" id="1_h5dir"]
+[ext_resource type="PackedScene" uid="uid://buearyetddleo" path="res://ty/ty.glb" id="1_ipqer"]
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_h5dir"]
+radius = 0.3
+
+[node name="Ty" type="CharacterBody3D"]
+script = ExtResource("1_h5dir")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.00722, 0)
+shape = SubResource("CylinderShape3D_h5dir")
+
+[node name="visuals" type="Node3D" parent="."]
+
+[node name="ty" parent="visuals" instance=ExtResource("1_ipqer")]
+transform = Transform3D(-0.999531, 0, 0.0306258, 0, 1, 0, -0.0306258, 0, -0.999531, 0, 0, 0)
+
+[node name="camera_mount" type="Node3D" parent="."]
+
+[node name="Camera3D" type="Camera3D" parent="camera_mount"]
+transform = Transform3D(1, 0, 0, 0, 0.99927, 0.038196, 0, -0.038196, 0.99927, 0.700511, 1.98745, 2.31213)

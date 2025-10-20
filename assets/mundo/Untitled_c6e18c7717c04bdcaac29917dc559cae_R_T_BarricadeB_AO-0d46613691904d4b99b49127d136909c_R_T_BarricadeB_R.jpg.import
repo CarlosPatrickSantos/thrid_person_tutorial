@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://8s37bptg1tya"
+path.s3tc="res://.godot/imported/Untitled_c6e18c7717c04bdcaac29917dc559cae_R_T_BarricadeB_AO-0d46613691904d4b99b49127d136909c_R_T_BarricadeB_R.jpg-76a25a6826d2b9d56f36b00088a172b1.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "032d3804e78ba485c18ee290419a2c3e"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_c6e18c7717c04bdcaac29917dc559cae_R_T_BarricadeB_AO-0d46613691904d4b99b49127d136909c_R_T_BarricadeB_R.jpg"
+dest_files=["res://.godot/imported/Untitled_c6e18c7717c04bdcaac29917dc559cae_R_T_BarricadeB_AO-0d46613691904d4b99b49127d136909c_R_T_BarricadeB_R.jpg-76a25a6826d2b9d56f36b00088a172b1.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=8
+roughness/src_normal="res://assets/mundo/Untitled_0c96fc92e08c4ce0ba3a1769f9d74407_N_T_BarricadeB_N.jpg"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

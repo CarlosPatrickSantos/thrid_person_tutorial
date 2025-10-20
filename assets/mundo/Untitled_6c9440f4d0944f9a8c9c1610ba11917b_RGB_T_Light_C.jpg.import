@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dvnsgkcn2bpc7"
+path.s3tc="res://.godot/imported/Untitled_6c9440f4d0944f9a8c9c1610ba11917b_RGB_T_Light_C.jpg-508d260e5fc05b8b8d2ca4c7630a6f61.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "bce3923c8bf937791ff45b561086b4bd"
+}
+
+[deps]
+
+source_file="res://assets/mundo/Untitled_6c9440f4d0944f9a8c9c1610ba11917b_RGB_T_Light_C.jpg"
+dest_files=["res://.godot/imported/Untitled_6c9440f4d0944f9a8c9c1610ba11917b_RGB_T_Light_C.jpg-508d260e5fc05b8b8d2ca4c7630a6f61.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
