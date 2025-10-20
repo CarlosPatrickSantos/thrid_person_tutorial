@@ -1,3 +1,6 @@
+
+**![Screenshot da cena principal](screenshots/minha_screenshot.jpg)**
+
 # 🕹️ Tutorial de Jogo em Terceira Pessoa (Godot Engine)
 
 Este repositório contém o código e os assets desenvolvidos durante o acompanhamento de um tutorial para a criação de um jogo 3D em terceira pessoa, utilizando o Godot Engine (versão 4.x).
