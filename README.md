@@ -31,6 +31,9 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
   
     * # 🕹️ Tutorial de Jogo em Terceira Pessoa (Godot Engine)
 
-![Screenshot da cena principal](screenshots/minha_screenshot.jpg)
+# 🕹️ Tutorial de Jogo em Terceira Pessoa (Godot Engine)
+
+![Screenshot da cena principal](https://raw.githubusercontent.com/CarlosPatrickSantos/thrid_person_tutorial/main/screenshots/minha_screenshot.jpg)
 
 Este repositório contém o código e os assets desenvolvidos...
+
