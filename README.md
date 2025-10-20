@@ -1,5 +1,4 @@
 
-**![Screenshot da cena principal](screenshots/minha_screenshot.jpg)**
 
 # 🕹️ Tutorial de Jogo em Terceira Pessoa (Godot Engine)
 
@@ -29,3 +28,9 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 3.  **Executar:**
     * Abra a cena principal (`main.tscn`).
     * Pressione o botão **Play (▶)** para iniciar o jogo.
+  
+    * # 🕹️ Tutorial de Jogo em Terceira Pessoa (Godot Engine)
+
+![Screenshot da cena principal](screenshots/minha_screenshot.jpg)
+
+Este repositório contém o código e os assets desenvolvidos...
